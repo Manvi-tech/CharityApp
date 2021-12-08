@@ -18,7 +18,7 @@ Comming Soon
 Clone this repo via to your local machine and install the dependencies by doing the following:
 
 ```bash
-git clone https://github.com/Manvi-tech/MinorProject_CharityApp
+git clone https://github.com/Manvi-tech/CharityApp.git
 cd charityApp
 npm install
 ```
