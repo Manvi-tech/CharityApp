@@ -1,6 +1,6 @@
-# TheCrowdChain - Blockchain fundraising & charity platform
+# CharityApp - Blockchain fundraising & charity platform
 
-TheCrowdChain is simple ethereum based charity raising and fundrasing decentralized application where a user can create a new cause and a user can fund the cause. The cryptocurrency that the app use is Ether as medium of exchange
+CharityApp is simple ethereum based charity raising and fundrasing decentralized application where a user can create a new cause and a user can fund the cause. The cryptocurrency that the app use is Ether as medium of exchange
 
 Medium article:
 
@@ -18,8 +18,8 @@ Comming Soon
 Clone this repo via to your local machine and install the dependencies by doing the following:
 
 ```bash
-git clone https://github.com/syedMSohaib/thecrowdchain.git
-cd thecrowdchain
+git clone https://github.com/Manvi-tech/MinorProject_CharityApp
+cd charityApp
 npm install
 ```
 
