@@ -19,7 +19,7 @@ Clone this repo via to your local machine and install the dependencies by doing 
 
 ```bash
 git clone https://github.com/syedMSohaib/thecrowdchain.git
-cd thecrowdchain
+cd CharityApp
 npm install
 ```
 
