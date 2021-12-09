@@ -29,7 +29,8 @@ npm start
 
 ## Built With
 
-* [Solidity](https://solidity.readthedocs.io/en/v0.6.2/) - A programming language for creating smart contract on Ethereum*   * [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces *
+* [Solidity](https://solidity.readthedocs.io/en/v0.6.2/) - A programming language for creating smart contract on Ethereum  
+* [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces 
 * [Remix ](https://remix.ethereum.org) - browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language
 * [web3.js](https://github.com/ethereum/web3.js/) - Javascript library used to interact with the Ethereum blockchain 
 
