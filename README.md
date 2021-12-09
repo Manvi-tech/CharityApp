@@ -2,9 +2,7 @@
 
 CharityApp is simple ethereum based charity raising and fundrasing decentralized application where a user can create a new cause and a user can fund the cause. The cryptocurrency that the app use is Ether as medium of exchange
 
-Medium article:
-
-Comming Soon
+## Overview:
 
 ![Crowdfunding](https://media.giphy.com/media/Wt6vhnRXuFgf7ANykb/giphy.gif)
 
