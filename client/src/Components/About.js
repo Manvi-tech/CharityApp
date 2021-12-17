@@ -39,11 +39,8 @@ function About() {
                   </svg>
                 </div>
                 <div class="icon-item__text">
-                  <p class="color--blue">Medicine Help</p>
-                  <span>
-                    Sharksucker sea toad candiru rocket danio tilefish stingray
-                    deepwater stingray Sacramento splittail,
-                  </span>
+                  <p class="color--blue">CLASSROOM SUPPORT</p>
+                  <span>UPLIFT A VISUALLY IMPAIRED CHILD</span>
                 </div>
               </div>
             </div>
@@ -68,11 +65,8 @@ function About() {
                   </svg>
                 </div>
                 <div class="icon-item__text">
-                  <p class="color--blue">We Build and Create</p>
-                  <span>
-                    Canthigaster rostrata. Midshipman dartfish Modoc sucker,
-                    yellowtail kingfish basslet
-                  </span>
+                  <p class="color--blue">LIVELIHOOD SUPPORT</p>
+                  <span>BACK PEOPLE WITH DISABILITY</span>
                 </div>
               </div>
             </div>
@@ -97,11 +91,8 @@ function About() {
                   </svg>
                 </div>
                 <div class="icon-item__text">
-                  <p class="color--blue">Water Delivery</p>
-                  <span>
-                    Sacramento splittail, Canthigaster rostrata. Midshipman
-                    dartfish Modoc sucker, yellowtail kingfish
-                  </span>
+                  <p class="color--blue">RAAHI</p>
+                  <span>GIFT A BETTER EYESIGHT TO TRUCK DRIVERS</span>
                 </div>
               </div>
             </div>
@@ -125,11 +116,8 @@ function About() {
                   </svg>
                 </div>
                 <div class="icon-item__text">
-                  <p class="color--blue">We Care About</p>
-                  <span>
-                    Buri chimaera triplespine northern sea robin zingel
-                    lancetfish galjoen fish, catla wolffish, mosshead
-                  </span>
+                  <p class="color--blue">SIGHT RESTORING SURGERY</p>
+                  <span>HELP THE VISUALLY IMPAIRED SEE</span>
                 </div>
               </div>
             </div>
