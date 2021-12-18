@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import RightPic from "../../assests/images/Right.png";
+import RightPic from "../../assests/images/charity.jpeg";
 import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { signin } from "../../action/Auth";
@@ -100,7 +100,7 @@ function SignIn(props) {
           </form>
         </div>
         <div className="form-left">
-          <img src={RightPic} alt="form" />
+          <img src={RightPic} alt="form" width="550px" height="640px" />
         </div>
       </div>
     </div>

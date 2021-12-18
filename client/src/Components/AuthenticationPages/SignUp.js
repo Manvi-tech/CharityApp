@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import RightPic from "../../assests/images/Right.png";
+import RightPic from "../../assests/images/charity.jpeg";
 import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import { register, signin } from "../../action/Auth";
@@ -130,7 +130,7 @@ const SignUp = (props) => {
           </form>
         </div>
         <div className="form-left">
-          <img src={RightPic} alt="form" />
+          <img src={RightPic} alt="form" width="550px" height="640px" />
         </div>
       </div>
     </div>
